@@ -1,9 +1,5 @@
-# Portfolio 
+# My Resume 
 Perfect Portoflio Template to start.
-Watch my YouTube video to see how to run it.
-Video how to use it:
-https://youtu.be/ddLuZXs8Uyw
-Video how to deploy it:
-https://youtu.be/E1dqffpUlMA
+This is my portifolio which includes all my projects and achievements i have accomplished
 ## Credits
-Template was created by Tenzin Phuljung and edited by Jakob Wolitzki.
+Template was by Mark Sikaundi the CEO at <b><i> Computer science 60 Advanced Research Project Africa </i></b>
